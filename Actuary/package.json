@@ -29,9 +29,8 @@
     "eject": "react-scripts eject",
     "postinstall": "npm run build"
   },
-
   "engines": {
-    "node":"8.17.0",
+    "node": "8.17.0",
     "npm": "6.13.4"
   },
   "eslintConfig": {
