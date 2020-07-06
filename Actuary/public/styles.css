@@ -1,0 +1,14 @@
+#graph{
+  width: 70%;
+  float: left;
+  height:400px;
+  margin:10px
+}
+
+#selection_window {
+	float:left; 
+	height:400px; 
+	width:200px;
+	background:gray; 
+	margin:10px; 
+}
